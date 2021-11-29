@@ -1,0 +1,6 @@
+PWD /Users/margaretjagger/GitHubProjects/music-i.s./styles
+INPUT /usr/local/texlive/2021/texmf.cnf
+INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT personal.tex
+OUTPUT personal.log

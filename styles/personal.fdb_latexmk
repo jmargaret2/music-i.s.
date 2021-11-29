@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1636410704 "personal.tex" "personal.pdf" "personal" 1636410704
+  "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
+  "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636410547 2724736 da10d9f9494989989f212b3a013fd507 ""
+  "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
+  "personal.aux" 1636410704 8 a94a2480d3289e625eea47cd1b285758 ""
+  "personal.tex" 1636410704 4604 89500b87c04a644b1d7982555f61c099 ""
+  (generated)
+  "personal.log"
+  "personal.pdf"
