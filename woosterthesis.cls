@@ -596,7 +596,7 @@ by \\
 {\scshape
   \th@sistype}
 \end{center}
-\end{textblock}
+\end{textblock}  
 \begin{textblock}{7}(1.65,5.15)
 \begin{singlespace}
 \begin{center}
