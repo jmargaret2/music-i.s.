@@ -1858,6 +1858,7 @@ by \\
 		allcolors=black,%
 		linkcolor=black,%
 		citecolor=black,%
+		unicode,%
 		pagebackref=false,%
 		plainpages=false,%
 		linktocpage=true,%			
@@ -1882,6 +1883,7 @@ by \\
 		colorlinks,%
 		allcolors=black,%
 		linkcolor=refcolor,%
+		unicode,%
 		citecolor=citecolor,%
 		pagebackref=true,%
 		plainpages=false,%
